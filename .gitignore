@@ -1,0 +1,9 @@
+.DS_Store
+.AppleDouble
+LSOverride
+
+.vs
+# vs создаёт доп файлы, мы их игнорим
+
+node_modules/
+app/css/
